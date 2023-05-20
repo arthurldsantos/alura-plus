@@ -12,7 +12,7 @@ Foi feita uma página principal, de acordo com o layout fornecido no Figma, cont
 * Quatro seções secundárias;
 * Rodapé.
 
-![gif com uma prévia do projeto]()
+![gif com uma prévia do projeto](./img/gif-alura-plus.gif)
 
 A versão final do projeto pode ser acessada no link abaixo:
 
